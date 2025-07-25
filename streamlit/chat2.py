@@ -8,7 +8,6 @@ from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
-from llm import get_ai_msg
 
 st.set_page_config(page_title="소득세 챗봇", page_icon="🐶")
 
