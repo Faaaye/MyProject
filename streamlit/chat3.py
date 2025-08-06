@@ -1,6 +1,6 @@
 import streamlit as st
 
-from llm import get_ai_response
+from llm2 import get_ai_response
 
 st.set_page_config(page_title="소득세 챗봇", page_icon="🐶")
 
