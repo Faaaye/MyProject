@@ -4,7 +4,7 @@ from llm2 import get_ai_response
 
 st.set_page_config(page_title="소득세 챗봇", page_icon="🐶")
 
-st.title("🐶 소득세 챗봇")
+st.title("🌈👻 소득세 챗봇 👻🌈")
 st.caption("소득세에 관련된 모든 것을 답해드립니다.")
 
 if 'message_list' not in st.session_state:
