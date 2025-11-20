@@ -4,7 +4,7 @@ from llm3 import get_ai_response
 
 st.set_page_config(page_title="은빛초 챗봇", page_icon="🐶")
 
-st.title("👻 은빛초등학교 챗봇 👻")
+st.title("🌈👻 은빛초등학교 챗봇 👻🌈")
 st.caption("교칙에 관련된 모든 것을 답해드립니다.")
 
 if 'message_list' not in st.session_state:
